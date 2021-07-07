@@ -14,7 +14,7 @@
 
 ## 🚀 Initiating the project
 
-Clone the project e acesse a pasta
+Clone the project and acess the folder
 
 ```bash
 $ git clone https://github.com/fredleal/moveit.git && cd moveit
