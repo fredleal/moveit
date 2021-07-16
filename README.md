@@ -10,6 +10,7 @@
 
 - React
 - NextJS
+- Context API
 - Typescript
 
 ## 🚀 Initiating the project
